@@ -187,3 +187,49 @@ ul
     margin-top: 15px;
     
 }
+
+#signform
+{
+    margin-top: 20px;
+    height: 500px;
+    width: 800px;
+    margin-left: 125px;
+    background: linear-gradient(white,yellow);
+    
+}
+
+#signform form
+{
+    text-align: left;
+    padding-top: 40px;
+    padding-left: 50px;
+    font-size: 23px;
+    margin-left: 100px;
+    font-family: sans-serif
+}
+
+
+#signform input {
+  width: 200px;
+    height: 30px;
+    padding: 5px;
+  box-sizing: border-box;
+    font-family: serif
+}
+#signform select {
+  width: 200px;
+    height: 30px;
+    padding: 5px;
+  box-sizing: border-box;
+    font-family: serif
+}
+#signform input[type=button] {
+  width: 100px;
+    height: 30px;
+    padding: 5px;
+    margin-left: 100px;
+    margin-top: 20px;
+  box-sizing: border-box;
+    font-weight: bold;
+    font-family: sans-serif
+}
